@@ -14,7 +14,7 @@ class App extends React.Component {
 
     this.state = {
       currentUser: null
-    }
+    }23423424234
   }
 
   unsubscribeFromAuth = null;
